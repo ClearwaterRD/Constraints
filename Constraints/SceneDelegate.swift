@@ -17,6 +17,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {
+        //2323232
     }
 
     func sceneDidBecomeActive(_ scene: UIScene) {
